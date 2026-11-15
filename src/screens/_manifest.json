@@ -1,0 +1,47 @@
+{
+ "app": "VPN Concept App",
+ "start": "finding-best-server",
+ "screens": [
+  {
+   "slug": "stale",
+   "name": "Stale",
+   "page": "Page 1",
+   "w": 375,
+   "h": 812,
+   "elements": 40,
+   "links": 2
+  },
+  {
+   "slug": "location",
+   "name": "Location",
+   "page": "Page 1",
+   "w": 375,
+   "h": 812,
+   "elements": 54,
+   "links": 2
+  },
+  {
+   "slug": "finding-best-server",
+   "name": "FInding best server",
+   "page": "Page 1",
+   "w": 375,
+   "h": 812,
+   "elements": 38,
+   "links": 1
+  },
+  {
+   "slug": "on",
+   "name": "On",
+   "page": "Page 1",
+   "w": 375,
+   "h": 812,
+   "elements": 40,
+   "links": 2
+  }
+ ],
+ "warnings": [],
+ "fontPackages": [
+  "dm-sans",
+  "inter"
+ ]
+}
